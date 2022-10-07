@@ -6,6 +6,7 @@
 
 ## Configure Nexus Repository
 - https://github.com/awanmbandi/eagles-batch-devops-projects/blob/maven-nexus-sonarqube-jenkins-install/nexus-install.sh
+
 Series of tutorial code snippets for use
 #Maven publish tutorial steps
 Publishing artifact to Nexus snapshot and release repo using maven.
