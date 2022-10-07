@@ -5,6 +5,7 @@
 - https://github.com/awanmbandi/maven-nexus-project-eagles-batch/blob/maven-nexus-install/maven-install.md
 
 ## Configure Nexus Repository
+- https://github.com/awanmbandi/eagles-batch-devops-projects/blob/maven-nexus-sonarqube-jenkins-install/nexus-install.sh
 Series of tutorial code snippets for use
 #Maven publish tutorial steps
 Publishing artifact to Nexus snapshot and release repo using maven.
@@ -34,10 +35,3 @@ Publishing artifact to Nexus snapshot and release repo using maven.
 ## Maven Lifecycle Phases
 - https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html#a-build-lifecycle-is-made-up-of-phases
 
-
-===============================================
-
-mvn sonar:sonar \
-  -Dsonar.projectKey=JavaWebApp \
-  -Dsonar.host.url=http://44.202.52.11:9000 \
-  -Dsonar.login=d88610249be66b336e7d1ce2ffdfc98c8cd494b5
